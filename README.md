@@ -1,0 +1,1 @@
+Este proyecto implementa un modelo espacial de Besag para estimar el riesgo relativo de diabetes tipo II en México a nivel municipal. El enfoque permite identificar patrones espaciales y áreas con mayor probabilidad de incidencia en comparación con el promedio nacional. Se incluyen visualizaciones interactivas que permiten explorar los resultados del modelo de manera dinámica.
